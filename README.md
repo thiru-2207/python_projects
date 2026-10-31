@@ -1,4 +1,4 @@
-# python_projects
+
 # 🐍 Python Projects
 
 Welcome to my Python projects repository!
@@ -13,11 +13,6 @@ This repository is a collection of my Python programs, experiments, and learning
 
 *More projects will be added soon!*
 
-## 🛠️ Technologies
-
-- Python
-- Git
-- GitHub
 
 ## 🚀 Getting Started
 
@@ -33,24 +28,6 @@ git clone https://github.com/thiru-2207/python_projects
 ```
 
 
-### Explore the projects
-
-Navigate to the folder containing the project you want to run.
-
-For example:
-
-```bash
-cd word-guessing-game
-```
-
-Run the Python file:
-
-```bash
-python game.py
-```
-
-The exact commands and dependencies may vary by project.
-
 ## 🎯 Goals
 
 - Practice Python programming.
@@ -62,7 +39,7 @@ The exact commands and dependencies may vary by project.
 
 This repository will grow as I continue learning, experimenting, and building new things.
 
-## 👨‍💻 Author
+##  Author
 
 **Thiru**
 
