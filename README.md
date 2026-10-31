@@ -7,9 +7,10 @@ This repository is a collection of my Python programs, experiments, and learning
 
 ## 📂 Projects
 
-| Project | Description | Technologies |
+| Project | Description |
 |---|---|---|
-| Word Guessing Game | A simple game where players guess a hidden word. | Python |
+| Word Guessing Game | A simple game where players guess a hidden word.|
+|number guessing game | a game where player have to guess a secret number. |
 
 *More projects will be added soon!*
 
